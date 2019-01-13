@@ -52,7 +52,7 @@ func _process(delta):
 		var to_look = translation+dir
 		if look.translation != to_look:
 			look.look_at(to_look,Vector3(0,1,0))
-		soft_rotate(0.1)
+		soft_rotate(rotation_speed)
 	
 	if follow:
 		vel.y += delta * g
