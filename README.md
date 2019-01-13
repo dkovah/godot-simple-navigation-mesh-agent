@@ -2,7 +2,7 @@
 
 This is a very basic implementation of a navigation mesh agent for Godot Engine 3.x (tested in 3.0.6)
 
-To activate it, copy the folder "NavigationMeshAgent" in the addons folder of your project. Then go to Project -> ProjectSettings -> Plugins and activate it.
+First, copy the folder "NavigationMeshAgent" in the addons folder of your project. Then go to Project -> ProjectSettings -> Plugins and activate it.
 
 The NavigationMeshAgent node should appear in the list of available nodes. To use it, put it as the direct child of a KinematicBody, and select the Navigation type node that will be used to calculate the paths and the target node to be followed by the KinematicBody. This can be done manually in the inspector or by changing the properties "target" and "navigation" via scripting.
 
