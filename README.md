@@ -1,7 +1,6 @@
-# godot-simple-navigation-mesh-agent
-Plugin for a simple navigation mesh agent
+# Simple navigation mesh agent for godot engine
 
-This is a very basic implementation of a Navigation Mesh Agent for Godot Engine 3.x (tested in 3.0.6)
+This is a very basic implementation of a navigation mesh agent for Godot Engine 3.x (tested in 3.0.6)
 
 To activate it, copy the folder "NavigationMeshAgent" in the addons folder of your project. Then go to Project -> ProjectSettings -> Plugins and activate it.
 
