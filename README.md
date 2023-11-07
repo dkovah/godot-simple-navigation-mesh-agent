@@ -8,4 +8,4 @@ The NavigationMeshAgent node should appear in the list of available nodes. To us
 
 Check <a href= "https://github.com/dkovah/NavigationMeshAgent-demo">this</a> also.
 
-The plugin is written in GDScript, so it is probably far from being efficient, and it is lacks of many desirable features, but something is better than nothing, I gess :-)
+The plugin is written in GDScript, so it is probably far from being efficient, and it is lacks of many desirable features, but something is better than nothing, I guess :-)
